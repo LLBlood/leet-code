@@ -10,7 +10,13 @@
 目录：cn.liulin.leetcode.string.simple.Class_4_ValidPalindrome125
 ### 1.5 412. Fizz Buzz
 目录：cn.liulin.leetcode.string.simple.Class_5_FizzBuzz412
+### 1.6 434. 字符串中的单词数
+目录：cn.liulin.leetcode.string.simple.Class_6_CountSegments434
+### 1.7 541. 反转字符串 II
+目录：cn.liulin.leetcode.string.simple.Class_7_ReverseStr541
 
 ## 2. 中等
 ### 2.1 6. Z 字形变换
 目录：cn.liulin.leetcode.string.medium.Class_1_ZigzagConversion6
+### 2.2 8. 字符串转换整数 (atoi)
+目录：cn.liulin.leetcode.string.medium.Class_2_StrToNum8
