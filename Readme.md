@@ -14,9 +14,15 @@
 目录：cn.liulin.leetcode.string.simple.Class_6_CountSegments434
 ### 1.7 541. 反转字符串 II
 目录：cn.liulin.leetcode.string.simple.Class_7_ReverseStr541
+### 1.8 482. 密钥格式化
+目录：cn.liulin.leetcode.string.simple.Class_8_LicenseKeyFormatting482
+### 1.9 168. Excel 表列名称
+目录：cn.liulin.leetcode.string.simple.Class_9_ConvertToTitle168
 
 ## 2. 中等
 ### 2.1 6. Z 字形变换
 目录：cn.liulin.leetcode.string.medium.Class_1_ZigzagConversion6
 ### 2.2 8. 字符串转换整数 (atoi)
 目录：cn.liulin.leetcode.string.medium.Class_2_StrToNum8
+### 2.3 12. 整数转罗马数字
+目录：cn.liulin.leetcode.string.medium.Class_3_IntToRoman12
