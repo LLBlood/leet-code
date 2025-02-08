@@ -18,6 +18,10 @@
 目录：cn.liulin.leetcode.string.simple.Class_8_LicenseKeyFormatting482
 ### 1.9 168. Excel 表列名称
 目录：cn.liulin.leetcode.string.simple.Class_9_ConvertToTitle168
+### 1.10 520. 检测大写字母
+目录：cn.liulin.leetcode.string.simple.Class_10_DetectCapitalUse520
+### 1.11 205. 同构字符串
+目录：cn.liulin.leetcode.string.simple.Class_11_IsIsomorphic205
 
 ## 2. 中等
 ### 2.1 6. Z 字形变换
@@ -26,3 +30,5 @@
 目录：cn.liulin.leetcode.string.medium.Class_2_StrToNum8
 ### 2.3 12. 整数转罗马数字
 目录：cn.liulin.leetcode.string.medium.Class_3_IntToRoman12
+### 2.4 17. 电话号码的字母组合
+目录：cn.liulin.leetcode.string.medium.Class_4_LetterCombinations17
