@@ -22,6 +22,10 @@
 目录：cn.liulin.leetcode.string.simple.Class_10_DetectCapitalUse520
 ### 1.11 205. 同构字符串
 目录：cn.liulin.leetcode.string.simple.Class_11_IsIsomorphic205
+### 1.12 521. 最长特殊序列 Ⅰ
+目录：cn.liulin.leetcode.string.simple.Class_12_FindLUSlength521
+### 1.12 257. 二叉树的所有路径
+目录：cn.liulin.leetcode.string.simple.Class_13_BinaryTreePaths257
 
 ## 2. 中等
 ### 2.1 6. Z 字形变换
