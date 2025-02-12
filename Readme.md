@@ -24,12 +24,17 @@
 目录：cn.liulin.leetcode.string.simple.Class_11_IsIsomorphic205
 ### 1.12 521. 最长特殊序列 Ⅰ
 目录：cn.liulin.leetcode.string.simple.Class_12_FindLUSlength521
-### 1.12 257. 二叉树的所有路径
+### 1.13 257. 二叉树的所有路径
 目录：cn.liulin.leetcode.string.simple.Class_13_BinaryTreePaths257
-### 1.12 551. 学生出勤记录 I
+### 1.14 551. 学生出勤记录 I
 目录：cn.liulin.leetcode.string.simple.Class_14_CheckRecord551
-### 1.12 657. 机器人能否返回原点
+### 1.15 657. 机器人能否返回原点
 目录：cn.liulin.leetcode.string.simple.Class_15_JudgeCircle657
+### 1.16 696. 计数二进制子串
+目录：cn.liulin.leetcode.string.simple.Class_16_CountBinarySubstrings696
+### 1.17 680. 验证回文串 II
+目录：cn.liulin.leetcode.string.simple.Class_17_ValidPalindrome680
+
 
 ## 2. 中等
 ### 2.1 6. Z 字形变换
@@ -40,5 +45,7 @@
 目录：cn.liulin.leetcode.string.medium.Class_3_IntToRoman12
 ### 2.4 17. 电话号码的字母组合
 目录：cn.liulin.leetcode.string.medium.Class_4_LetterCombinations17
-### 2.4 22. 括号生成
+### 2.5 22. 括号生成
 目录：cn.liulin.leetcode.string.medium.Class_5_GenerateParenthesis22
+### 2.6 38. 外观数列
+目录：cn.liulin.leetcode.string.medium.Class_6_CountAndSay38
