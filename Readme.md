@@ -34,6 +34,10 @@
 目录：cn.liulin.leetcode.string.simple.Class_16_CountBinarySubstrings696
 ### 1.17 680. 验证回文串 II
 目录：cn.liulin.leetcode.string.simple.Class_17_ValidPalindrome680
+### 1.18 796. 旋转字符串
+目录：cn.liulin.leetcode.string.simple.Class_18_RotateString796
+### 1.19 819. 最常见的单词
+目录：cn.liulin.leetcode.string.simple.Class_19_MostCommonWord819
 
 
 ## 2. 中等
@@ -49,3 +53,5 @@
 目录：cn.liulin.leetcode.string.medium.Class_5_GenerateParenthesis22
 ### 2.6 38. 外观数列
 目录：cn.liulin.leetcode.string.medium.Class_6_CountAndSay38
+### 2.7 71. 简化路径
+目录：cn.liulin.leetcode.string.medium.Class_7_SimplifyPath71
