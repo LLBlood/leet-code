@@ -38,6 +38,10 @@
 目录：cn.liulin.leetcode.string.simple.Class_18_RotateString796
 ### 1.19 819. 最常见的单词
 目录：cn.liulin.leetcode.string.simple.Class_19_MostCommonWord819
+### 1.20 824. 山羊拉丁文
+目录：cn.liulin.leetcode.string.simple.Class_20_ToGoatLatin824
+### 1.21 830. 较大分组的位置
+目录：cn.liulin.leetcode.string.simple.Class_21_LargeGroupPositions830
 
 
 ## 2. 中等
@@ -55,3 +59,5 @@
 目录：cn.liulin.leetcode.string.medium.Class_6_CountAndSay38
 ### 2.7 71. 简化路径
 目录：cn.liulin.leetcode.string.medium.Class_7_SimplifyPath71
+### 2.8 79. 单词搜索
+目录：cn.liulin.leetcode.string.simple.Class_8_Exist79
