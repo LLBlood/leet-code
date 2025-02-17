@@ -42,6 +42,10 @@
 目录：cn.liulin.leetcode.string.simple.Class_20_ToGoatLatin824
 ### 1.21 830. 较大分组的位置
 目录：cn.liulin.leetcode.string.simple.Class_21_LargeGroupPositions830
+### 1.22 859. 亲密字符串
+目录：cn.liulin.leetcode.string.simple.Class_22_BuddyStrings859
+### 1.23 884. 两句话中的不常见单词
+目录：cn.liulin.leetcode.string.simple.Class_23_UncommonFromSentences884
 
 
 ## 2. 中等
@@ -61,3 +65,5 @@
 目录：cn.liulin.leetcode.string.medium.Class_7_SimplifyPath71
 ### 2.8 79. 单词搜索
 目录：cn.liulin.leetcode.string.simple.Class_8_Exist79
+### 2.9 93. 复原 IP 地址
+目录：cn.liulin.leetcode.string.simple.Class_9_RestoreIpAddresses93
