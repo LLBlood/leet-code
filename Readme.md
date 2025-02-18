@@ -46,6 +46,10 @@
 目录：cn.liulin.leetcode.string.simple.Class_22_BuddyStrings859
 ### 1.23 884. 两句话中的不常见单词
 目录：cn.liulin.leetcode.string.simple.Class_23_UncommonFromSentences884
+### 1.24 917. 仅仅反转字母
+目录：cn.liulin.leetcode.string.simple.Class_24_ReverseOnlyLetters917
+### 1.25 925. 长按键入
+目录：cn.liulin.leetcode.string.simple.Class_25_IsLongPressedName925
 
 
 ## 2. 中等
@@ -64,6 +68,8 @@
 ### 2.7 71. 简化路径
 目录：cn.liulin.leetcode.string.medium.Class_7_SimplifyPath71
 ### 2.8 79. 单词搜索
-目录：cn.liulin.leetcode.string.simple.Class_8_Exist79
+目录：cn.liulin.leetcode.string.medium.Class_8_Exist79
 ### 2.9 93. 复原 IP 地址
-目录：cn.liulin.leetcode.string.simple.Class_9_RestoreIpAddresses93
+目录：cn.liulin.leetcode.string.medium.Class_9_RestoreIpAddresses93
+### 2.10 97. 交错字符串
+目录：cn.liulin.leetcode.string.medium.Class_10_IsInterleave97
