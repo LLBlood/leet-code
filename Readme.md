@@ -80,9 +80,17 @@
 目录：cn.liulin.leetcode.dynamic.simple.Class_1_CountBits338
 ### 1.2 1025. 除数博弈
 目录：cn.liulin.leetcode.dynamic.simple.Class_2_DivisorGame1025
+### 1.3 1668. 最大重复子字符串
+目录：cn.liulin.leetcode.dynamic.simple.Class_3_MaxRepeating1668
+### 1.4 2900. 最长相邻不相等子序列 I
+目录：cn.liulin.leetcode.dynamic.simple.Class_4_GetLongestSubsequence2900
+
 
 ## 2. 中等
 ### 2.1 95. 不同的二叉搜索树 II
 目录：cn.liulin.leetcode.dynamic.medium.Class_1_GenerateTrees95
+### 2.2 131. 分割回文串
+目录：cn.liulin.leetcode.dynamic.medium.Class_2_Partition131
+
 
 
