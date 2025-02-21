@@ -84,6 +84,11 @@
 目录：cn.liulin.leetcode.dynamic.simple.Class_3_MaxRepeating1668
 ### 1.4 2900. 最长相邻不相等子序列 I
 目录：cn.liulin.leetcode.dynamic.simple.Class_4_GetLongestSubsequence2900
+### 1.5 70. 爬楼梯
+目录：cn.liulin.leetcode.dynamic.simple.Class_5_ClimbStairs70
+### 1.6 面试题 17.16. 按摩师
+目录：cn.liulin.leetcode.dynamic.simple.Class_6_massage17_16
+
 
 
 ## 2. 中等
@@ -91,6 +96,8 @@
 目录：cn.liulin.leetcode.dynamic.medium.Class_1_GenerateTrees95
 ### 2.2 131. 分割回文串
 目录：cn.liulin.leetcode.dynamic.medium.Class_2_Partition131
+### 2.3 241. 为运算表达式设计优先级
+目录：cn.liulin.leetcode.dynamic.medium.Class_3_DiffWaysToCompute241
 
 
 
