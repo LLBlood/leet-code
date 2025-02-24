@@ -88,6 +88,8 @@
 目录：cn.liulin.leetcode.dynamic.simple.Class_5_ClimbStairs70
 ### 1.6 面试题 17.16. 按摩师
 目录：cn.liulin.leetcode.dynamic.simple.Class_6_massage17_16
+### LCP 07. 传递信息
+目录：cn.liulin.leetcode.dynamic.simple.Class_7_MessageDeliveryLCP07
 
 
 
@@ -98,6 +100,19 @@
 目录：cn.liulin.leetcode.dynamic.medium.Class_2_Partition131
 ### 2.3 241. 为运算表达式设计优先级
 目录：cn.liulin.leetcode.dynamic.medium.Class_3_DiffWaysToCompute241
+
+
+# 三、递归
+## 1. 简单
+### 1.1 326. 3 的幂
+目录：cn.liulin.leetcode.recursion.simple.Class_1_IsPowerOfThree326
+### 1.2 3304. 找出第 K 个字符 I
+目录：cn.liulin.leetcode.recursion.simple.Class_2_KthCharacter3304
+
+# 四、定长窗口
+## 2. 中等
+### 2.1 1456. 定长子串中元音的最大数目
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_1_MaxVowels1456
 
 
 
