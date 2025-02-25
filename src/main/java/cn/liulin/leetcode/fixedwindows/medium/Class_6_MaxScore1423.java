@@ -9,7 +9,6 @@ package cn.liulin.leetcode.fixedwindows.medium;
 public class Class_6_MaxScore1423 {
     public int maxScore(int[] cardPoints, int k) {
         // 因为是从行头或者行尾拿，所以角标必定包含行首或者行尾才有求值的可能性
-        // 即 开头角标为0，结束角标为cardPoints.length - 1 或者小于开头角标
         int count = 0;
         int n = cardPoints.length;
         int sum = 0;
@@ -32,7 +31,6 @@ public class Class_6_MaxScore1423 {
 
     public int maxScore2(int[] cardPoints, int k) {
         // 因为是从行头或者行尾拿，所以角标必定包含行首或者行尾才有求值的可能性
-        // 即 开头角标为0，结束角标为cardPoints.length - 1 或者小于开头角标
         int n = cardPoints.length;
         int sum = 0;
         int maxSum = 0;
