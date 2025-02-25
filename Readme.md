@@ -110,9 +110,25 @@
 目录：cn.liulin.leetcode.recursion.simple.Class_2_KthCharacter3304
 
 # 四、定长窗口
+## 1.简单
+### 1.1 643. 子数组最大平均数 I
+目录：cn.liulin.leetcode.fixedwindows.simple.Class_1_FindMaxAverage643
+### 1.2 2379. 得到 K 个黑块的最少涂色次数
+目录：cn.liulin.leetcode.fixedwindows.simple.Class_2_MinimumRecolors2379
+
 ## 2. 中等
 ### 2.1 1456. 定长子串中元音的最大数目
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_1_MaxVowels1456
+### 2.2 1343. 大小为 K 且平均值大于等于阈值的子数组数目
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_2_NumOfSubarrays1343
+### 2.3 2090. 半径为 k 的子数组平均值
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_3_GetAverages2090
+### 2.4 2841. 几乎唯一子数组的最大和
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_4_MaxSum2841
+### 2.5 2461. 长度为 K 子数组中的最大和
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_5_MaximumSubarraySum2461
+### 2.6 1423. 可获得的最大点数
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_6_MaxScore1423
 
 
 
