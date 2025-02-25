@@ -36,7 +36,7 @@ public class Class_6_MaxScore1423 {
         int n = cardPoints.length;
         int sum = 0;
         int maxSum = 0;
-        for (int i = -k; i < k; i++) {
+        for (int i = -k; i <= k; i++) {
             if (i >= 0) {
                 maxSum = Math.max(maxSum, sum);
                 sum -= cardPoints[(i - k + n) % n];
