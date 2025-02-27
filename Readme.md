@@ -115,6 +115,8 @@
 目录：cn.liulin.leetcode.fixedwindows.simple.Class_1_FindMaxAverage643
 ### 1.2 2379. 得到 K 个黑块的最少涂色次数
 目录：cn.liulin.leetcode.fixedwindows.simple.Class_2_MinimumRecolors2379
+### 1.3 1652. 拆炸弹
+目录：cn.liulin.leetcode.fixedwindows.simple.Class_3_Decrypt1652
 
 ## 2. 中等
 ### 2.1 1456. 定长子串中元音的最大数目
@@ -129,6 +131,11 @@
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_5_MaximumSubarraySum2461
 ### 2.6 1423. 可获得的最大点数
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_6_MaxScore1423
-
+### 2.7 1052. 爱生气的书店老板
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_7_MaxSatisfied1052
+### 2.8 1461. 检查一个字符串是否包含所有长度为 K 的二进制子串
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_8_HasAllCodes1461
+### 2.9 2134. 最少交换次数来组合所有的 1 II
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_9_MinSwaps2134
 
 
