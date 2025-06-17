@@ -137,5 +137,13 @@
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_8_HasAllCodes1461
 ### 2.9 2134. 最少交换次数来组合所有的 1 II
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_9_MinSwaps2134
-
-
+### 2.10 1297. 子串的最大出现次数
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_10_MaxFreq1297
+### 2.11 2653. 滑动子数组的美丽值
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_11_GetSubarrayBeauty2653
+### 2.12 3439. 重新安排会议得到最多空余时间 I
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_12_MaxFreeTime3439
+### 2.13 1888. 使二进制字符串字符交替的最少反转次数
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_13_MinFlips1888
+### 2.14 567. 字符串的排列
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_14_CheckInclusion567
