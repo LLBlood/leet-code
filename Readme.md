@@ -147,3 +147,9 @@
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_13_MinFlips1888
 ### 2.14 567. 字符串的排列
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_14_CheckInclusion567
+### 2.15 438. 找到字符串中所有字母异位词
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_15_FindAnagrams438
+
+## 3. 困难
+### 3.1 30. 串联所有单词的子串
+目录：cn.liulin.leetcode.fixedwindows.hard.Class_1_FindSubstring30
