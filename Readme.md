@@ -117,6 +117,10 @@
 目录：cn.liulin.leetcode.fixedwindows.simple.Class_2_MinimumRecolors2379
 ### 1.3 1652. 拆炸弹
 目录：cn.liulin.leetcode.fixedwindows.simple.Class_3_Decrypt1652
+### 1.4 2269. 找到一个数字的 K 美丽值
+目录：cn.liulin.leetcode.fixedwindows.simple.Class_4_DivisorSubstrings2269
+### 1.5 1984. 学生分数的最小差值
+目录：cn.liulin.leetcode.fixedwindows.simple.Class_5_MinimumDifference1984
 
 ## 2. 中等
 ### 2.1 1456. 定长子串中元音的最大数目
@@ -149,6 +153,8 @@
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_14_CheckInclusion567
 ### 2.15 438. 找到字符串中所有字母异位词
 目录：cn.liulin.leetcode.fixedwindows.medium.Class_15_FindAnagrams438
+### 2.16 1461. 检查一个字符串是否包含所有长度为 K 的二进制子串
+目录：cn.liulin.leetcode.fixedwindows.medium.Class_16_HasAllCodes1461
 
 ## 3. 困难
 ### 3.1 30. 串联所有单词的子串
