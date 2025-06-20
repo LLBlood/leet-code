@@ -159,3 +159,13 @@
 ## 3. 困难
 ### 3.1 30. 串联所有单词的子串
 目录：cn.liulin.leetcode.fixedwindows.hard.Class_1_FindSubstring30
+
+
+# 五、不定长窗口
+## 1. 简单
+### 1.1 3090. 每个字符最多出现两次的最长子字符串
+目录：cn.liulin.leetcode.unfixedwindows.simple.Class_1_MaximumLengthSubstring3090
+
+## 2. 中等
+### 2.1 3. 无重复字符的最长子串
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_1_LengthOfLongestSubstring3
