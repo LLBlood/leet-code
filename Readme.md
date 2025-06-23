@@ -169,3 +169,7 @@
 ## 2. 中等
 ### 2.1 3. 无重复字符的最长子串
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_1_LengthOfLongestSubstring3
+### 2.2 1493. 删掉一个元素以后全为 1 的最长子数组
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_2_LongestSubarray1493
+### 2.2 1208. 尽可能使字符串相等
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_3_EqualSubstring1208
