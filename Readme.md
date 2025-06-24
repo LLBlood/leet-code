@@ -171,5 +171,9 @@
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_1_LengthOfLongestSubstring3
 ### 2.2 1493. 删掉一个元素以后全为 1 的最长子数组
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_2_LongestSubarray1493
-### 2.2 1208. 尽可能使字符串相等
+### 2.3 1208. 尽可能使字符串相等
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_3_EqualSubstring1208
+### 2.4 904. 水果成篮
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_4_TotalFruit904
+### 2.5 1695. 删除子数组的最大得分
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_5_MaximumUniqueSubarray1695
