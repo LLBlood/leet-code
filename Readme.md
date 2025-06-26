@@ -177,3 +177,11 @@
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_4_TotalFruit904
 ### 2.5 1695. 删除子数组的最大得分
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_5_MaximumUniqueSubarray1695
+### 2.6 2958. 最多 K 个重复元素的最长子数组
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_6_MaxSubarrayLength2958
+### 2.7 2024. 考试的最大困扰度
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_7_MaxConsecutiveAnswers2024
+### 2.8 1004. 最大连续1的个数 III
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_8_LongestOnes1004
+### 2.9 1658. 将 x 减到 0 的最小操作数
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_9_MinOperations1658
