@@ -185,3 +185,7 @@
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_8_LongestOnes1004
 ### 2.9 1658. 将 x 减到 0 的最小操作数
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_9_MinOperations1658
+### 2.10 2730. 找到最长的半重复子字符串
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_10_LongestSemiRepetitiveSubstring2710
+### 2.11 2779. 数组的最大美丽值
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_11_MaximumBeauty2779
