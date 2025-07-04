@@ -189,3 +189,15 @@
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_10_LongestSemiRepetitiveSubstring2710
 ### 2.11 2779. 数组的最大美丽值
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_11_MaximumBeauty2779
+### 2.12 1838. 最高频元素的频数
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_12_MaxFrequency1838
+### 2.13 2516. 每种字符至少取 K 个
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_13_TakeCharacters2516
+### 2.14 2831. 找出最长等值子数组
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_14_LongestEqualSubarray2831
+### 2.15 209. 长度最小的子数组
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_15_MinSubArrayLen209
+### 2.16 2904. 最短且字典序最小的美丽子字符串
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_16_ShortestBeautifulSubstring2904
+### 2.17 1234. 替换子串得到平衡字符串
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_17_BalancedString1234
