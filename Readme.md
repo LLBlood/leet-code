@@ -199,5 +199,3 @@
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_15_MinSubArrayLen209
 ### 2.16 2904. 最短且字典序最小的美丽子字符串
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_16_ShortestBeautifulSubstring2904
-### 2.17 1234. 替换子串得到平衡字符串
-目录：cn.liulin.leetcode.unfixedwindows.medium.Class_17_BalancedString1234
