@@ -165,6 +165,8 @@
 ## 1. 简单
 ### 1.1 3090. 每个字符最多出现两次的最长子字符串
 目录：cn.liulin.leetcode.unfixedwindows.simple.Class_1_MaximumLengthSubstring3090
+### 1.2 3258. 统计满足 K 约束的子字符串数量 I
+目录：cn.liulin.leetcode.unfixedwindows.simple.Class_2_CountKConstraintSubstrings3258
 
 ## 2. 中等
 ### 2.1 3. 无重复字符的最长子串
@@ -199,3 +201,11 @@
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_15_MinSubArrayLen209
 ### 2.16 2904. 最短且字典序最小的美丽子字符串
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_16_ShortestBeautifulSubstring2904
+### 2.17 713. 乘积小于 K 的子数组
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_17_NumSubarrayProductLessThanK713
+### 2.18 LCP 68. 美观的花束
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_18_BeautifulBouquet68
+### 2.19 1358. 包含所有三种字符的子字符串数目
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_19_NumberOfSubstrings1358
+### 2.20 2799. 统计完全子数组的数目
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_20_CountCompleteSubarrays2799
