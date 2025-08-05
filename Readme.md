@@ -209,3 +209,7 @@
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_19_NumberOfSubstrings1358
 ### 2.20 2799. 统计完全子数组的数目
 目录：cn.liulin.leetcode.unfixedwindows.medium.Class_20_CountCompleteSubarrays2799
+### 2.21 930. 和相同的二元子数组
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_21_NumSubarraysWithSum930
+### 2.22 1248. 统计「优美子数组」
+目录：cn.liulin.leetcode.unfixedwindows.medium.Class_22_NumberOfSubarrays1248
